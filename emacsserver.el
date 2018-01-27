@@ -1,5 +1,7 @@
 ;;; emacsserver.el --- A server in emacs-lisp
 
+;; License: public-domain
+
 ;; emacsserver.el is free software
 ;; -*-mode:Emacs-Lisp;tab-width:4;indent-tabs-mode:nil-*-
 ;; Time-stamp: <2005-03-04 19:20:44 dhu2kor>
